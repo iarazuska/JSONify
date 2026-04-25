@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976d2,100:43a047&height=200&section=header&text=JSONify&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=JSON%20Formatter%20%26%20Viewer%20built%20with%20Python&descAlignY=55&descSize=18" width="100%"/>
+# 🔍 JSONify
 
-</div>
-
-<div align="center">
+**JSON Formatter & Viewer built with Python and Tkinter**
 
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-GUI-1976d2?style=for-the-badge&logo=python&logoColor=white)
